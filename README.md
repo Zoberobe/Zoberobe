@@ -21,7 +21,7 @@ Sou um desenvolvedor de software com experiência na criação de soluções rob
 
 ### 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=zoberobe&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Zoberobe&show_icons=true&theme=radical)
 
 ### 📫 Vamos nos conectar?
 
